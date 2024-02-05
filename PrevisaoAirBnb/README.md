@@ -1,5 +1,5 @@
 ﻿# Projeto Airbnb 
-Repositório destinado a armazenar projetos de previsão de hotéis no Airbnb
+ Projetos de previsão de hotéis no Airbnb
 
 ## Descrição
 
@@ -22,4 +22,5 @@ As bases de dados foram retiradas do site kaggle: https://www.kaggle.com/allanbr
 As bases de dados são os preços dos imóveis obtidos e suas respectivas características em cada mês.
 Os preços são dados em reais (R$)
 Temos bases de abril de 2018 a maio de 2020, com exceção de junho de 2018 que não possui base de dados
+O arquivo 'primeiros_registros.csv' possui uma amostra dos dados utilizados para a construção do modelo
 
